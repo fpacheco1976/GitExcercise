@@ -4,3 +4,4 @@ Mañana vemos los temas a tratar la semana que viene
 Llamar a Claudio fambrini
 Mail enviado
 Conservar los cambios vistos
+cambiamos el nombre de usuario en git
