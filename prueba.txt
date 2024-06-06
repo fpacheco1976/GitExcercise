@@ -7,3 +7,6 @@ Conservar los cambios vistos
 cambiamos el nombre de usuario en git
 rama principal poseterior a la rama 2
 Nuevos comentarios en master
+rama DOS
+Nuevo cambio en la rama 2
+Ultimo cambio en la rama 2
