@@ -5,4 +5,5 @@ Llamar a Claudio fambrini
 Mail enviado
 Conservar los cambios vistos
 cambiamos el nombre de usuario en git
-rama principal
+rama principal poseterior a la rama 2
+Nuevos comentarios en master
